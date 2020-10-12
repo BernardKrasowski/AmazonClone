@@ -9,14 +9,14 @@ const Home = () => {
         src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg" alt="" />
       <div className="home__row">
         <Product
-          id='12321341'
+          id='121341'
           title="Iphone 11 SIM-free - Apple"
           price={11.96}
           rating={5}
           image='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_0fEf50KGgxZ_k0__zhclp97CFUWO3r4iUw&usqp=CAU'
         />
         <Product
-          id='12321341'
+          id='12341'
           title="Charvel launches the Pro-Mod So-Cal Style 2"
           price={799.99}
           rating={5}
@@ -25,7 +25,7 @@ const Home = () => {
       </div>
       <div className="home__row">
         <Product
-          id='123213'
+          id='1213'
           title="Mens Sale Shoes. Nike.com"
           price={30}
           rating={4}
@@ -39,7 +39,7 @@ const Home = () => {
           image='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlzG4xIPiNUDlBofgg5niv5OeGil_-VRq7gwP2SNpsOGVhbId8wTOSwwjRkOS34OWo5niDHeMs&usqp=CAc'
         />
         <Product
-          id='12321341'
+          id='1258341'
           title="Termomix Tm6 Newest Model - Brand"
           price={1200.99}
           rating={4}
